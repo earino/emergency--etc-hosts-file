@@ -1,2 +1,4 @@
 This project attempts to be a hosts file in case DNS is ever turned off for a
 site.
+
+I have now decided that hosts entries should be spread across multiple files. Maybe I'll write a simple perl script installer thing.
